@@ -4,6 +4,9 @@
 
 <br />
 
+
+##### 노션 뷰 : https://www.notion.so/4-Velog-3bc5e5dab9a841259a7041c5c09df5e7
+
 ##### 프론트 github 주소 : https://github.com/han-woo-jin/VelogClone-FE.git
 ---
 
